@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.tif
+*.h5
+*.hdf5
+*.npy
+*.npz
+*.csv
+*.txt
+!requirements.txt
+.DS_Store
