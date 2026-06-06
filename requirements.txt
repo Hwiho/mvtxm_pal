@@ -1,0 +1,12 @@
+numpy
+scipy
+scikit-image
+matplotlib
+h5py
+tifffile
+tqdm
+pystackreg
+silx
+pandas
+Pillow
+opencv-python
